@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Source Serif 4", serif;
+}
+
+body {
+  color: #333333;
+}
